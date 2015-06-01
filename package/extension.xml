@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension xmlns="http://ns.adobe.com/air/extension/2.5">
+	<id>com.xkw.ane.alipay</id>
+	<versionNumber>1</versionNumber>
+	<platforms>
+		<platform name="Android-ARM">
+			<applicationDeployment>
+				<nativeLibrary>alipay.jar</nativeLibrary>
+				<initializer>com.xkw.ane.alipay.extension.AlipayExtension</initializer>
+				<finalizer>com.xkw.ane.alipay.extension.AlipayExtension</finalizer>
+			</applicationDeployment>
+		</platform>
+	</platforms>
+</extension>

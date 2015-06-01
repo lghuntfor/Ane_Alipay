@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="_e0e5861c15025fb158614fb28e4da1d641fc237d8d7187c6bb92de4ee1571ff0_flash_display_Sprite" mod="1429780412630" signatureChecksum="1976728211" >
+        <def id="_e0e5861c15025fb158614fb28e4da1d641fc237d8d7187c6bb92de4ee1571ff0_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="com/xkw/ane/alipay/Alipay" mod="1429780378190" signatureChecksum="2983686919" >
+        <def id="com.xkw.ane.alipay:Alipay" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="86609204818b219d443a8424407d638d1c5516224a0a74c688f343ec9a4f9c6d"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>
