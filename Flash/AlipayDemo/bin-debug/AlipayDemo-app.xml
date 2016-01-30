@@ -296,11 +296,11 @@
 			        <!-- 商户私钥 -->
 			        <meta-data 
 			        	android:name="RSA_PRIVATE" 
-			        	android:value="MIICdwIBADANBgkqhkiG9w0BAQEFAASCAmEwggJdAgEAAoGBANbKO5YsNj36miMOOsMpUhAqPOVjgXyDfVsu4pO08j3db3GhnANJZlf+E8vZb8A4XR3CugC6QXOm6MZSjnpk8vK30X6s0GmjZoqEsyL3MBaxlc7xnubTAWm16kBYu1aA/UHTe6RmJ/Kqa/skr1YIeK/fFaVV71Pnm7hVkSbU9uzTAgMBAAECgYEAmTe99cwoDWJc3bDi3iD1ty5KLmAjGE07+PWjDza+rr7tJqPgBMAxT4ehW4MKIpaSZg5oXOiAlB12YzK1DD5Cxu8oyHevokYO7lCuIGRNvMnVOa+irHczJm28296UIcSyIIBmV9oCROH7a6byQA+he4ILyE4oDis6FlWdMmtXP9ECQQDrJsmiJ7AmPdf5u3j0bsF106v8X+5uQnJ9HmzQQGrzus/irKIuKCHWH7IkQ0YDamqVWWSmNZGDLAnKHgw2k6LXAkEA6dVNEqzgI8Yu7OWLOQKUBdpoldTQMJ393WKD57e2Sc67ZFijs8E4jZdOt22tjVfk05coIfZuUZj+oyyHqd4CZQJAaZYSBYiSlKlCN/VQ21h7758q43hjxAh8BehKbbvvCh+AxsRDUjxc7RtwTs4SOuhmkUcBZYw6GU8F2kZhr4PdIwJBALACyfAbxt/Gxv20zzZLlYZOX9kghtGBq1zgUe+y3njyLyYafqbI87vIwAzcdv3kwi7vIdtmtqWfJ1VGKJwZq+0CQF85WZbS9pZcxN6zohp8APV+3u4YTjjkMkBEgY7F+Qu13JDAARihHr78boZuhjABRoq6OHUtz7LEPrPaXOWhaEk="/>
+			        	android:value=""/>
 			        <!-- 支付宝公钥 -->
 			        <meta-data 
 			        	android:name="RSA_PUBLIC" 
-			        	android:value="MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCnxj/9qwVfgoUh/y2W89L6BkRAFljhNhgPdyPuBV64bfQNN1PjbCzkIM6qRdKBoLPXmKKMiFYnkd6rAoprih3/PrQEB/VsW8OoM8fxn67UDYuyBTqA23MML9q1+ilIZwBC2AQ2UBVOrFXfFl75p6/B5KsiNG9zpgmLCUYuLkxpLQIDAQAB"/>
+			        	android:value=""/>
 			        	
 			        <activity
 						 android:name="com.alipay.sdk.app.H5PayActivity"
